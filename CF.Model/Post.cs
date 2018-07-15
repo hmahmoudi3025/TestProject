@@ -27,12 +27,5 @@ namespace CF.Model
         
     }
 
-    public class Test
-    {
-        private void dfsgdsg()
-        {
-            var context = new BlogContext();
-            context.Database.sq
-        }
-    }
+   
 }
